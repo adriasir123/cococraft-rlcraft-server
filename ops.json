@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "744f2c54-3090-3d53-9a5c-e50003676b93",
+    "name": "coma_buste",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4ae46e85-990b-3eff-8285-af40547b7dd0",
+    "name": "dragonSK7",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "af43b755-fc9a-4968-adbc-d96847e07946",
+    "name": "Coma",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a5b988b9-c880-3519-8fbb-837d4d278dc6",
+    "name": "coma_buster",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
